@@ -1,4 +1,4 @@
-const apiKey = '1959e2422fd4f4f2e326bd735e3111c9'; 
+const apiKey = ''; 
 
 const cityInput = document.getElementById('cityInput');
 const locationElement = document.querySelector('.location');
